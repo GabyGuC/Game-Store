@@ -5,4 +5,5 @@ Tienda básica de videojuegos que almacena datos de los videojuegos y reseñas d
 Diagrama físico de DB:
 
 
-![GameStore_DB](https://github.com/user-attachments/assets/548b47e1-7dfe-4e1a-af2a-944616dabe5e)
+![DiagramDB](https://github.com/user-attachments/assets/b7ab1735-43b1-4fc9-88fb-2735740c13da)
+
