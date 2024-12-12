@@ -1,0 +1,9 @@
+* Comando para descargar las imágenes
+docker pull postgres:15.3
+docker pull dpage/pgadmin4
+
+* Comando para iniciar el contenedor
+docker compose up -d
+
+* Comando para detener el contenedor
+docker compose down
