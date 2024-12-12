@@ -1,4 +1,4 @@
-# Game-Store
+# Store-Game
 Proyecto donde se aplican los streams de java.
 Tienda básica de videojuegos que almacena datos de los videojuegos y reseñas de clientes.
 
